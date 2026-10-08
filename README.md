@@ -2,69 +2,43 @@
 
 ### Full Stack Developer | React.js • Node.js • Next.js • MongoDB
 
-I'm a BCA graduate currently pursuing an online MCA, focused on building
-full-stack web applications and improving my software development skills.
+BCA graduate currently pursuing an online MCA, focused on building full-stack web applications and strengthening my skills in modern JavaScript technologies.
 
-## 🚀 Tech Stack
+I enjoy turning ideas into practical applications and learning by building real projects.
 
-### Frontend
-- JavaScript
-- React.js
-- Next.js
-- Redux Toolkit
-- Tailwind CSS
-- HTML5
-- CSS3
+### 🛠️ Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- Mongoose
+**Frontend**
+React.js • Next.js • JavaScript • Redux Toolkit • Tailwind CSS • HTML5 • CSS3
 
-### Tools & Services
-- Git
-- GitHub
-- Postman
-- Firebase
-- Cloudinary
-- Razorpay
+**Backend**
+Node.js • Express.js • REST APIs • MongoDB • Mongoose
 
-## 🔨 Featured Projects
+**Tools & Services**
+Git • GitHub • Postman • Firebase • Cloudinary • Razorpay • Resend
 
-### Fixora — Local Skill Hub
-A full-stack local services marketplace built with React, Node.js,
-Express.js and MongoDB.
+### 🚀 Featured Projects
 
-### Trekking Platform
-A Next.js project for exploring trekking packages and handling
-booking enquiries.
+**🔧 Fixora — Local Skill Hub**
+A full-stack local services marketplace built with React, Node.js, Express.js and MongoDB, featuring authentication, subscriptions, payments, location services and email communication.
 
-### Chat Application
-A real-time chat application built to explore real-time communication
-and backend development.
+🛰️ Dehradun LULC Change Detection
+Remote sensing project analyzing Land Use/Land Cover changes in Dehradun using Google Earth Engine, Landsat 7, Landsat 9 and Random Forest classification.
 
-## 🌱 Currently Learning
+**💬 Chat Application**
+A full-stack chat application built to explore real-time communication, authentication, backend APIs and database integration.
 
-- Next.js
-- TypeScript
-- Advanced JavaScript
-- Backend architecture
-- Docker
-- AWS
+### 🌱 Currently Learning
 
-## 🎯 Career Goal
+Next.js • TypeScript • Advanced JavaScript • Backend Architecture • Docker • AWS
 
-I'm looking for an entry-level opportunity as a:
+### 🎯 Open to Opportunities
 
-- React.js Developer
-- MERN Stack Developer
-- Full Stack Developer
-- Software Developer
+Looking for entry-level opportunities in:
 
-## 📫 Connect With Me
+**React.js Development • MERN Stack • Full Stack Development • Software Development**
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
+### 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/anuj-negi-65442b349/) • [Portfolio](https://portfolio-six-lake-23.vercel.app/) • **[anujnegi9997@gmail.com](mailto:anujnegi9997@gmail.com)**
+
