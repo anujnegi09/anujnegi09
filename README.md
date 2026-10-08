@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Anuj Negi 👋
 
-<!--
-**anujnegi09/anujnegi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React.js • Node.js • Next.js • MongoDB
 
-Here are some ideas to get you started:
+I'm a BCA graduate currently pursuing an online MCA, focused on building
+full-stack web applications and improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- JavaScript
+- React.js
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Mongoose
+
+### Tools & Services
+- Git
+- GitHub
+- Postman
+- Firebase
+- Cloudinary
+- Razorpay
+
+## 🔨 Featured Projects
+
+### Fixora — Local Skill Hub
+A full-stack local services marketplace built with React, Node.js,
+Express.js and MongoDB.
+
+### Trekking Platform
+A Next.js project for exploring trekking packages and handling
+booking enquiries.
+
+### Chat Application
+A real-time chat application built to explore real-time communication
+and backend development.
+
+## 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- Advanced JavaScript
+- Backend architecture
+- Docker
+- AWS
+
+## 🎯 Career Goal
+
+I'm looking for an entry-level opportunity as a:
+
+- React.js Developer
+- MERN Stack Developer
+- Full Stack Developer
+- Software Developer
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_PORTFOLIO_URL
+- Email: YOUR_EMAIL
